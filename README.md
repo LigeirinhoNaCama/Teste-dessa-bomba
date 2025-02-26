@@ -2,7 +2,7 @@
 Repositório criado para as aulas teoricas e atividades práticas da disciplina.
 ## Organização do Repositório
 Este repositório está organizado da seguite forma:
-- ** aulas/**: Pasta que contém os codigos das atividades teóricas.
+- **aulas/**: Pasta que contém os codigos das atividades teóricas.
 - **praticas/**: Pasta que contem os codigos das atividades práticas.
 ## Comandos Básicos do Shell no Linux
 Aqui estão alguns comandos basicos do shell no linux que podem ser úteis ao utilizar o git-bash.
