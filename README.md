@@ -39,3 +39,4 @@ gcc nome_do_arquivo.c -lm
 ./a.exe
 ```
 ## Vao se fuder
+Vamos aprender
