@@ -38,5 +38,3 @@ gcc nome_do_arquivo.c -lm
 ```shell
 ./a.exe
 ```
-## Vao se fuder
-Vamos aprender
