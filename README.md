@@ -25,7 +25,7 @@ cd ~ #Volta diretamente para a pasta home
 ```shell
 clear
 ```
-#Instruções para Compilar um Programa C
+## Instruções para Compilar um Programa C
 1. Acesse a Pasta com os Códigos
 ```shell
 cd aulas
