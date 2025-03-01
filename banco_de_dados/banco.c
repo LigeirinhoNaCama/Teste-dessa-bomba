@@ -109,5 +109,9 @@ int main() {
         }
     } while (opcao != 4);
 
+    printf("\nPressione qualquer tecla para sair...\n");
+    getchar(); // Pega o enter deixado pelo scanf
+    getchar(); // Agora sim espera uma tecla de verdade
+    
     return 0;
 }
