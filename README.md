@@ -34,7 +34,18 @@ cd aula01
 2. Compile o programa
 ```shell
 gcc nome_do_arquivo.c -lm
+```
 3. Execute o Programa Compilado
 ```shell
 ./a.exe
+```
+## Comandos para salvar seu arquivo no GitHub
+```shell
+git add seu_arquivo.algo #Adiciona o arquivo à área de espera (prepara pra commit)
+git add . #Faz a mesma coisa que o de cima, mas com todos os arquivos e pastas
+git commit -m "Exemplo de texto para salvar as mudanças" #Cria um commit com a mensagem, salvando as mudanças preparadas
+git push origin develop #Envia os commits da branch develop pro pré repositório remoto
+git switch main #Necessario trocar para (main)
+git merge develop #Mescla as mudanças da branch develop na branch atual (main)
+git push origin main #Envia as mudanças da branch main pro repositório remoto
 ```
