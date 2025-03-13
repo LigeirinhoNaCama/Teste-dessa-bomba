@@ -49,3 +49,7 @@ git switch main #Necessario trocar para (main)
 git merge develop #Mescla as mudanças da branch develop na branch atual (main)
 git push origin main #Envia as mudanças da branch main pro repositório remoto
 ```
+## Comando para caso seu antivirus barre o a.exe
+```shell
+gcc seu_arquivo.c -lm -o a.out #Agora sempre que for rodar o programa, rode com "./a.out"
+```
