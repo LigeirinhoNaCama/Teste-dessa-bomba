@@ -53,3 +53,11 @@ git push origin main #Envia as mudanças da branch main pro repositório remoto
 ```shell
 gcc seu_arquivo.c -lm -o a.out #Agora sempre que for rodar o programa, rode com "./a.out"
 ```
+## Comandos para imprimir caracteres, decimais e inteiros
+```shell
+%c #Imprime apenas um caracter
+%s #Imprime strings (sequencia de caracteres)
+%f #Imprime um numero de valor flutuante (valor decimal)
+%.2f #Imprime um numero de valor flutuante (porem com duas casas apenas, ou mais se trocar o numero)
+%i #Imprime um numero inteiro
+```
